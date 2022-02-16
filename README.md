@@ -7,4 +7,4 @@ différent de 1,2 ou 3; il perd son tour et c'est à l'autre joueur de jouer. Et
 il sera obligé de retirer un nombre correcte selon la situation.
 3. NB: On fera attention aux cas où le nombre d'allumettes restant est 3, 2 ou 1 allumettes et que le joueur sera obligé de retirer un nombre correcte
 afin que la dernière allumette puisse être retirée par le futur gagnant.
-4. Réalisé en 2020
+4. Réalisé en 2020 par THIAM Pape Mayel Diagne.
